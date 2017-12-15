@@ -1,0 +1,198 @@
+{
+    "feed": {
+        "title": "Activity Stream",
+        "subtitle": "Activities from the NewsGator-Enhanced SharePoint Activity Stream.",
+        "updated": "2017-12-07T10:14:05Z",
+        "entry": [
+            {
+                "id": "29511192",
+                "title": "NewsGatorQA",
+                "summary": "asked a question: test img",
+                "published": "2017-11-17T14:02:05Z",
+                "updated": "2017-11-17T14:02:05Z",
+                "author": {
+                    "name": "Brice GIRARD",
+                    "uri": "http://loyalkng.com/wp-content/uploads/2010/01/facebook-art-no-photo-image-batman-mickey-mouse-spock-elvis-rick-roll.jpg",
+                    "Id": "248095",
+                    "PictureUrl": "http://loyalkng.com/wp-content/uploads/2010/01/facebook-art-no-photo-image-batman-mickey-mouse-spock-elvis-rick-roll.jpg",
+                    "isColleague": "true",
+                    "isMvp": "false"
+                },
+                
+                "activityType": "NewsGatorQA",
+                "activityTypeDisplayName": "Microblog Questions",
+                "activityTypeId": "30",
+                "isFollowUp": "false",
+                "privacy": "Public"
+            },
+            {
+                "id": "29395488",
+                "title": "NewsGatorQA",
+                "summary": "<a href=\"https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201\" title=\"PROCTER, Daniel\">PROCTER, Daniel</a> asked a question: <a class=\"communityLink\" href=\"https://hub.intra.corp/sites/Help\">@[Help]</a>: <a class=\"user\" href=\"https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|204221\">@(Mason, Stephen SJ)</a> Hi. I&#39;d like to introduce links to other pages in my HUB community in a similar format to the icons at the top of this page. Is there anywhere I can be directed such as a tutorial or help page to achieve this please?<br><br>Many thanks",
+                "published": "2017-12-05T14:34:40Z",
+                "updated": "2017-12-05T14:34:40Z",
+                "author": {
+                    "name": "PROCTER, Daniel",
+                    "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201",
+                    "email": "daniel.procter@airbus.com",
+                    "Id": "1219857",
+                    "PictureUrl": "https://myhub.intra.corp/_layouts/images/O14_person_placeHolder_96.png",
+                    "isColleague": "false",
+                    "isMvp": "false"
+                },
+               
+                "activityType": "NewsGatorQA",
+                "activityTypeDisplayName": "Microblog Questions",
+                "activityTypeId": "30",
+                "isFollowUp": "false",
+                "privacy": "Public",
+                "comment": {
+                    "author": {
+                        "name": "GARCIA, Coline (ATOS INTEGRATION)",
+                        "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|coline.garcia.external@airbus.com",
+                        "email": "coline.garcia.external@airbus.com",
+                        "Id": "1250910",
+                        "AccountName": "i:0j.t|portal|coline.garcia.external@airbus.com",
+                        "PictureUrl": "https://myhub.intra.corp/User Photos/Profile Pictures/trustedprovider_portal_coline_garcia_external_airbus_com_MThumb.jpg"
+                    },
+                    "likeCount": "4",
+                    "like": [
+                        {
+                            "author": {
+                                "name": "HALLETT, Steven",
+                                "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|204377",
+                                "email": "steven.hallett@airbus.com",
+                                "Id": "783934",
+                                "AccountName": "i:0j.t|portal|204377",
+                                "PictureUrl": "https://myhub.intra.corp/User Photos/Profile Pictures/trustedprovider_portal_204377_MThumb.jpg"
+                            }
+                        },
+                        {
+                            "author": {
+                                "name": "PROCTER, Daniel",
+                                "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201",
+                                "email": "daniel.procter@airbus.com",
+                                "Id": "1219857",
+                                "AccountName": "i:0j.t|portal|472201",
+                                "PictureUrl": "https://myhub.intra.corp/_layouts/images/O14_person_placeHolder_96.png"
+                            }
+                        }
+                    ]
+                },
+                "commentCount": "1"
+            },
+			 {
+                "id": "29395488",
+                "title": "NewsGatorQA",
+                "summary": "<a href=\"https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201\" title=\"PROCTER, Daniel\">PROCTER, Daniel</a> asked a question: <a class=\"communityLink\" href=\"https://hub.intra.corp/sites/Help\">@[Help]</a>: <a class=\"user\" href=\"https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|204221\">@(Mason, Stephen SJ)</a> Hi. I&#39;d like to introduce links to other pages in my HUB community in a similar format to the icons at the top of this page. Is there anywhere I can be directed such as a tutorial or help page to achieve this please?<br><br>Many thanks",
+                "published": "2017-12-05T14:34:40Z",
+                "updated": "2017-12-05T14:34:40Z",
+                "author": {
+                    "name": "PROCTER, Daniel",
+                    "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201",
+                    "email": "daniel.procter@airbus.com",
+                    "Id": "1219857",
+                    "PictureUrl": "https://myhub.intra.corp/_layouts/images/O14_person_placeHolder_96.png",
+                    "isColleague": "false",
+                    "isMvp": "false"
+                },
+               
+                "activityType": "NewsGatorQA",
+                "activityTypeDisplayName": "Microblog Questions",
+                "activityTypeId": "30",
+                "isFollowUp": "false",
+                "privacy": "Public",
+                "comment": {
+                    "author": {
+                        "name": "GARCIA, Coline (ATOS INTEGRATION)",
+                        "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|coline.garcia.external@airbus.com",
+                        "email": "coline.garcia.external@airbus.com",
+                        "Id": "1250910",
+                        "AccountName": "i:0j.t|portal|coline.garcia.external@airbus.com",
+                        "PictureUrl": "https://myhub.intra.corp/User Photos/Profile Pictures/trustedprovider_portal_coline_garcia_external_airbus_com_MThumb.jpg"
+                    },
+                    "likeCount": "4",
+                    "like": [
+                        {
+                            "author": {
+                                "name": "HALLETT, Steven",
+                                "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|204377",
+                                "email": "steven.hallett@airbus.com",
+                                "Id": "783934",
+                                "AccountName": "i:0j.t|portal|204377",
+                                "PictureUrl": "https://myhub.intra.corp/User Photos/Profile Pictures/trustedprovider_portal_204377_MThumb.jpg"
+                            }
+                        },
+                        {
+                            "author": {
+                                "name": "PROCTER, Daniel",
+                                "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201",
+                                "email": "daniel.procter@airbus.com",
+                                "Id": "1219857",
+                                "AccountName": "i:0j.t|portal|472201",
+                                "PictureUrl": "https://myhub.intra.corp/_layouts/images/O14_person_placeHolder_96.png"
+                            }
+                        }
+                    ]
+                },
+                "commentCount": "1"
+            },
+			 {
+                "id": "29395488",
+                "title": "NewsGatorQA",
+                "summary": "<a href=\"https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201\" title=\"PROCTER, Daniel\">PROCTER, Daniel</a> asked a question: <a class=\"communityLink\" href=\"https://hub.intra.corp/sites/Help\">@[Help]</a>: <a class=\"user\" href=\"https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|204221\">@(Mason, Stephen SJ)</a> Hi. I&#39;d like to introduce links to other pages in my HUB community in a similar format to the icons at the top of this page. Is there anywhere I can be directed such as a tutorial or help page to achieve this please?<br><br>Many thanks",
+                "published": "2017-12-05T14:34:40Z",
+                "updated": "2017-12-05T14:34:40Z",
+                "author": {
+                    "name": "PROCTER, Daniel",
+                    "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201",
+                    "email": "daniel.procter@airbus.com",
+                    "Id": "1219857",
+                    "PictureUrl": "https://myhub.intra.corp/_layouts/images/O14_person_placeHolder_96.png",
+                    "isColleague": "false",
+                    "isMvp": "false"
+                },
+               
+                "activityType": "NewsGatorQA",
+                "activityTypeDisplayName": "Microblog Questions",
+                "activityTypeId": "30",
+                "isFollowUp": "false",
+                "privacy": "Public",
+                "comment": {
+                    "author": {
+                        "name": "GARCIA, Coline (ATOS INTEGRATION)",
+                        "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|coline.garcia.external@airbus.com",
+                        "email": "coline.garcia.external@airbus.com",
+                        "Id": "1250910",
+                        "AccountName": "i:0j.t|portal|coline.garcia.external@airbus.com",
+                        "PictureUrl": "https://myhub.intra.corp/User Photos/Profile Pictures/trustedprovider_portal_coline_garcia_external_airbus_com_MThumb.jpg"
+                    },
+                    "likeCount": "4",
+                    "like": [
+                        {
+                            "author": {
+                                "name": "HALLETT, Steven",
+                                "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|204377",
+                                "email": "steven.hallett@airbus.com",
+                                "Id": "783934",
+                                "AccountName": "i:0j.t|portal|204377",
+                                "PictureUrl": "https://myhub.intra.corp/User Photos/Profile Pictures/trustedprovider_portal_204377_MThumb.jpg"
+                            }
+                        },
+                        {
+                            "author": {
+                                "name": "PROCTER, Daniel",
+                                "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201",
+                                "email": "daniel.procter@airbus.com",
+                                "Id": "1219857",
+                                "AccountName": "i:0j.t|portal|472201",
+                                "PictureUrl": "https://myhub.intra.corp/_layouts/images/O14_person_placeHolder_96.png"
+                            }
+                        }
+                    ]
+                },
+                "commentCount": "1"
+            }
+        ]
+    }
+}
