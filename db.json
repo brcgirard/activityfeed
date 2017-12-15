@@ -1,0 +1,162 @@
+{
+    "feed": {
+        "title": "Activity Stream",
+        "subtitle": "Activities from the NewsGator-Enhanced SharePoint Activity Stream.",
+        "id": "uuid:581b4624-8a25-4078-9ea7-7d30a71e421f;id=1053",
+        "updated": "2017-12-07T10:14:05Z",
+        "pagingToken": "2;25;2017-12-05T12:45:00.7230000Z;2017-12-07T10:07:56.8890845Z;True",
+        "hasMoreItems": "true",
+        "entry": [
+            {
+                "id": "29511192",
+                "title": "NewsGatorQA",
+                "summary": "<a href=\"https://myhubv.intra.corp/Person.aspx?accountname=i:0j.t|portal|vincent.coucharriere.external@airbus.com\" title=\"vincent.coucharriere.external@airbus.com\">vincent.coucharriere.external@airbus.com</a> asked a question: test img",
+                "published": "2017-11-17T14:02:05Z",
+                "updated": "2017-11-17T14:02:05Z",
+                "author": {
+                    "name": "vincent.coucharriere.external@airbus.com",
+                    "uri": "https://myhubv.intra.corp/Person.aspx?accountname=i:0j.t|portal|vincent.coucharriere.external@airbus.com",
+                    "Id": "248095",
+                    "AccountName": "i:0j.t|portal|vincent.coucharriere.external@airbus.com",
+                    "PictureUrl": "https://myhubv.intra.corp/_layouts/images/O14_person_placeHolder_96.png",
+                    "isColleague": "true",
+                    "isMvp": "false"
+                },
+                "link": [
+                    {
+                        "@attributes": {
+                            "rel": "enclosure",
+                            "type": "image/jpeg",
+                            "title": "Penguins.jpg",
+                            "length": "777835",
+                            "href": "https://myhubv.intra.corp/personal/trustedprovider_portal_vincent_coucharriere_external_airbus_com/Shared Pictures/Penguins.jpg"
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "rel": "self",
+                            "href": "https://hubv.intra.corp/_layouts/ng/ActivityStream.aspx/id/CA83E2323DE22275442E6146DD7CB64C/Question?/Lists/PublishedFeed"
+                        }
+                    }
+                ],
+                "activityType": "NewsGatorQA",
+                "activityTypeDisplayName": "Microblog Questions",
+                "activityTypeId": "30",
+                "allowActions": {
+                    "followup": "",
+                    "delete": "",
+                    "answer": "",
+                    "markAnswer": "",
+                    "share": "",
+                    "like": "",
+                    "report": "",
+                    "edit": "",
+                    "lockEvent": ""
+                },
+                "eventKey": "CA83E2323DE22275442E6146DD7CB64C",
+                "isFollowUp": "false",
+                "privacy": "Public"
+            },
+            {
+                "id": "29395488",
+                "title": "NewsGatorQA",
+                "summary": "<a href=\"https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201\" title=\"PROCTER, Daniel\">PROCTER, Daniel</a> asked a question: <a class=\"communityLink\" href=\"https://hub.intra.corp/sites/Help\">@[Help]</a>: <a class=\"user\" href=\"https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|204221\">@(Mason, Stephen SJ)</a> Hi. I&#39;d like to introduce links to other pages in my HUB community in a similar format to the icons at the top of this page. Is there anywhere I can be directed such as a tutorial or help page to achieve this please?<br><br>Many thanks",
+                "published": "2017-12-05T14:34:40Z",
+                "updated": "2017-12-05T14:34:40Z",
+                "author": {
+                    "name": "PROCTER, Daniel",
+                    "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201",
+                    "email": "daniel.procter@airbus.com",
+                    "Id": "1219857",
+                    "AccountName": "i:0j.t|portal|472201",
+                    "PictureUrl": "https://myhub.intra.corp/_layouts/images/O14_person_placeHolder_96.png",
+                    "isColleague": "false",
+                    "isMvp": "false"
+                },
+                "link": {
+                    "@attributes": {
+                        "rel": "self",
+                        "href": "https://hub.intra.corp/_layouts/ng/ActivityStream.aspx/id/CBFDA7B5FE9BCAC275BBFB4ADCA6F1DA/Question?/Lists/PublishedFeed"
+                    }
+                },
+                "socialGroups": "394448336e134010ac9b5cd8fd792986",
+                "activityType": "NewsGatorQA",
+                "activityTypeDisplayName": "Microblog Questions",
+                "activityTypeId": "30",
+                "allowActions": {
+                    "followup": "",
+                    "answer": "",
+                    "share": "",
+                    "like": "",
+                    "report": ""
+                },
+                "notificationActions": {
+                    "group": {
+                        "@attributes": {
+                            "action": "remove",
+                            "id": "39444833-6e13-4010-ac9b-5cd8fd792986",
+                            "name": "Help",
+                            "scope": "digestEmail"
+                        }
+                    }
+                },
+                "eventKey": "CBFDA7B5FE9BCAC275BBFB4ADCA6F1DA",
+                "isFollowUp": "false",
+                "privacy": "Public",
+                "comment": {
+                    "@attributes": {
+                        "metaEventId": "1389944",
+                        "deleteAllowed": "false",
+                        "editAllowed": "false",
+                        "updated": "2017-12-05T14:43:20Z",
+                        "isAnswer": "true",
+                        "isMvp": "false"
+                    },
+                    "author": {
+                        "name": "GARCIA, Coline (ATOS INTEGRATION)",
+                        "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|coline.garcia.external@airbus.com",
+                        "email": "coline.garcia.external@airbus.com",
+                        "Id": "1250910",
+                        "AccountName": "i:0j.t|portal|coline.garcia.external@airbus.com",
+                        "PictureUrl": "https://myhub.intra.corp/User Photos/Profile Pictures/trustedprovider_portal_coline_garcia_external_airbus_com_MThumb.jpg"
+                    },
+                    "likeCount": "4",
+                    "like": [
+                        {
+                            "@attributes": {
+                                "metaEventId": "1390793",
+                                "deleteAllowed": "FALSE"
+                            },
+                            "author": {
+                                "name": "HALLETT, Steven",
+                                "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|204377",
+                                "email": "steven.hallett@airbus.com",
+                                "Id": "783934",
+                                "AccountName": "i:0j.t|portal|204377",
+                                "PictureUrl": "https://myhub.intra.corp/User Photos/Profile Pictures/trustedprovider_portal_204377_MThumb.jpg"
+                            }
+                        },
+                        {
+                            "@attributes": {
+                                "metaEventId": "1390364",
+                                "deleteAllowed": "FALSE"
+                            },
+                            "author": {
+                                "name": "PROCTER, Daniel",
+                                "uri": "https://myhub.intra.corp/Person.aspx?accountname=i:0j.t|portal|472201",
+                                "email": "daniel.procter@airbus.com",
+                                "Id": "1219857",
+                                "AccountName": "i:0j.t|portal|472201",
+                                "PictureUrl": "https://myhub.intra.corp/_layouts/images/O14_person_placeHolder_96.png"
+                            }
+                        }
+                    ],
+                    "allowActions": {
+                        "like": ""
+                    }
+                },
+                "commentCount": "1"
+            }
+        ]
+    }
+}
